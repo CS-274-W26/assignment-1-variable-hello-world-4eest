@@ -1,7 +1,6 @@
-#include <stdio.h> // Necessary for printf()
-
-#include <stdlib.h> // Necessary for rand() and srand()
-#include <time.h> // Necessary for time()
+#include <stdio.h> // for printf()
+#include <stdlib.h> // for rand() and srand()
+#include <time.h> // for time()
 
 
 int main() {
